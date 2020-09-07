@@ -53,6 +53,7 @@ hr{
   padding-top: 100px;
 }
 .middle-container{
+  background-color: #99F3BD;
   margin: 100px 0;
 }
 .pro{
@@ -97,15 +98,9 @@ hr{
 }
 .btn:hover{
   background-color: #11999E;
-}
-/*.code-skill-descr{
-  clear:left;
-}
-.dr-skill-descr{
-  clear: right;
-}*/
 
 .bottom-container{
+  background-color: #D2F6C5;
   margin: 0;
   margin-top: 30px;
   background-color: #66BFBF;
